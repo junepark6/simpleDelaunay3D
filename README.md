@@ -1,5 +1,14 @@
 # simpleDelaunay3D
 
+Description
+
+This python script returns the 3D Delaunay tetrahedralization for given input,
+
+1) PDB file
+2) XYZ file
+3) number of random atoms 
+.
+
 Prerequisites
 
 #Required
